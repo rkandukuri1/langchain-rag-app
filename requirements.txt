@@ -1,0 +1,5 @@
+langchain_openai=>1.0.2
+langchain_community=>0.4.1
+langchain_core=>1.2.26
+dotenv=>0.9.9
+streamlit=>1.54.0
